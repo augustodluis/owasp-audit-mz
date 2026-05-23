@@ -191,3 +191,4 @@ Esta plataforma destina-se a ambientes laboratoriais autorizados. A interface ob
   Desenvolvido por <strong>Augusto Domingos Luís</strong><br>
   Trabalho de Fim de Curso · Engenharia Informática · UnISCED · Centro de Recursos de Quelimane · 2026
 </p>
+
