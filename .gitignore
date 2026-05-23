@@ -3,6 +3,14 @@
 /public/storage
 /storage/*.key
 /storage/logs/*.log
+/storage/framework/cache/*
+!/storage/framework/cache/.gitkeep
+/storage/framework/sessions/*
+!/storage/framework/sessions/.gitkeep
+/storage/framework/views/*
+!/storage/framework/views/.gitkeep
+/bootstrap/cache/*.php
+!/bootstrap/cache/.gitkeep
 /vendor
 .env
 .env.backup
@@ -13,3 +21,5 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+auth.json
+*.cache
