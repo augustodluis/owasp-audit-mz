@@ -1,0 +1,15 @@
+:root {
+    --brand: #C8102E;
+    --brand-dark: #9B0C24;
+    --ink: #2D2D2D;
+    --muted: #6C757D;
+}
+
+body { background: #FAFAFA; color: var(--ink); }
+.navbar-brand strong { color: var(--ink); letter-spacing: 0.4px; }
+.btn-primary, .btn-primary:hover { background: var(--brand); border-color: var(--brand); }
+.text-danger { color: var(--brand) !important; }
+.bg-brand { background: var(--brand); }
+code { color: var(--brand-dark); background: #f6f6f6; padding: 1px 4px; border-radius: 3px; }
+.card { border: 1px solid #eee; }
+.toast { border-left: 4px solid var(--brand); }
